@@ -1,0 +1,63 @@
+---
+title: ""
+pagetitle: "Haizhen Lin"
+---
+
+<br>
+
+<link rel="stylesheet" href="style.css" type="text/css">
+
+<div style="text-align: center"><span style="color:rgba(153, 0, 0, 1.1); font-size: 26pt; font-family:'Georgia'" ><b>Haizhen Lin</b></span></div>
+
+<br>
+
+<div><img src="xxx.jpg" style="width: 230px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+
+Associate Chair, Department of Business Economics and Public Policy  
+Jack R. Wentworth Professor and Associate Professor, Kelley School of Business, Indiana University  
+Research Associate, National Bureau of Economic Research  
+**Areas of Research**: Health Economics, Industrial Organization, Applied Econometrics, Law and Economics
+
+Email: [hzlin@iu.edu](mailto:hzlin@iu.edu)   
+
+[<button class="button-13" role="button">CV</button>](files/cv/cv.pdf)</div>
+
+<br>
+
+### Selected Publications
+
+- *Outside equity and healthcare firm behavior*, with Elizabeth Munnich, Michael Richards, Chris Whaley, and Xiaoxi Zhao, _Journal of Health Economics_, forthcoming.
+
+- [Multimarket contact in Medicare Advantage](https://www.nber.org/papers/w24486), with Ian McCarthy, _Journal of Industrial Economics_, 71(1), 212–255, 2023.
+
+- [Hospital pricing following integration with physician practices](https://www.sciencedirect.com/science/article/pii/S0167629621000291?dgcid=author), with Ian McCarthy and Michael Richards, _Journal of Health Economics_, 77, 2021.
+
+- [Search and prices in Medigap insurance policies](medigap.pdf), with Matthijs Wildenbeest, _Journal of Business & Economic Statistics_, 38(4): 754–770, 2020.
+
+- [Intertemporal substitution in health care demand: Evidence from the RAND Health Insurance Experiment](LinSacksISHC.pdf), with Dan Sacks, _Journal of Public Economics_, 175, 29–43, 2019.
+
+- [Information technology and patient health: Analyzing outcomes, populations, and mechanisms](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2445431), with Seth Freedman and Jeffrey Prince, _American Journal of Health Economics_, 4(1), 51–79, 2018.
+
+- [Determinants of policy response: The case of the partnership long-term care insurance program](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2471241), with Jeffrey Prince, _Health Services Research_, 51(2), 687–703, 2016.
+
+- [Quality choice and market structure: A dynamic analysis of nursing home oligopolies](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2041704), _International Economic Review_, 56(4), 1261–1290, 2015.
+
+- [Competition and price discrimination in the parking garage industry](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033463), with Isabelle Yijia Wang, _Journal of Industrial Economics_, 63(3), 522–548, 2015.
+
+- [Public health insurance expansions and hospital technology adoption](http://www.nber.org/papers/w20159), with Seth Freedman and Kosali Simon, _Journal of Public Economics_, 121, 117–131, 2015.
+
+- [Revisiting the relationship between nurse staffing and quality of care in nursing homes: An instrumental variables approach](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2427821), _Journal of Health Economics_, 37, 13–24, 2014.
+
+- [The impact of the partnership long-term care insurance program on private coverage](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2039059), with Jeffrey Prince, _Journal of Health Economics_, 32(6), 1205–1213, 2013.
+
+- [Financial distress and use of mental health care: Evidence from antidepressant prescription claims](Antidepressants.pdf), with Jonathan Ketcham, Kosali Simon, and Niels Rosenquist, _Economics Letters_, 121(3), 449–453, 2013.
+
+---
+
+### Working Papers
+
+- [Distributional effect of insurer concentration on premiums: Evidence from employer-sponsored health insurance](esi.pdf), with Yaying Zhou, revisions requested, _RAND Journal of Economics_.
+
+- [Owning the agent: Hospital influence on physician behaviors](https://www.nber.org/papers/w28859), with Ian McCarthy and Michael Richards.
+
+<br>

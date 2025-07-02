@@ -1,0 +1,80 @@
+/* Whole document: */
+body{
+  font-family: Palatino;
+  font-size: 13pt;
+  word-spacing: 0.05em;
+  line-height: 1.8
+}
+
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-size: 17pt;
+}
+
+iframe {
+    margin: 0;
+    padding: 0;
+    opacity: 0.9;
+    display:block;
+}
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 0px;
+  text-align: left;
+}
+
+/* Links */
+a:link {
+  color: rgba(153, 0, 0, 1.1);
+}
+
+a:visited {
+  color: rgba(153, 0, 0, 1.1);
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: red;
+}
+
+/* Buttons */
+.button-13 {
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: rgba(153, 0, 0, 0.5) 0 0 0 0;
+  box-sizing: border-box;
+  color: rgba(153, 0, 0, 1.1);
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 13px;
+  line-height: 13px;
+  padding: 0 0 0 0;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 230px;
+  height: 23px;
+}
+
+.button-13:hover {
+  background-color: rgba(153, 0, 0, 0.5);
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.button-13:focus {
+  border-color: ##990000;
+  box-shadow: rgba(153, 0, 0, 0.5) 5px 5px 5px 5px;
+  outline: 0;
+}
