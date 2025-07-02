@@ -11,20 +11,23 @@ pagetitle: "Haizhen Lin"
 
 <br>
 
-<div><img src="xxx.jpg" style="width: 230px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="haizhen-headshot.jpg" style="width: 230px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
-Associate Chair, Department of Business Economics and Public Policy  
-Jack R. Wentworth Professor and Associate Professor, Kelley School of Business, Indiana University  
+Chair and Professor of Business Economics and Public Policy
+
+Jack R. Wentworth Professor, Kelley School of Business, Indiana University  
+
 Research Associate, National Bureau of Economic Research  
+
 **Areas of Research**: Health Economics, Industrial Organization, Applied Econometrics, Law and Economics
 
 Email: [hzlin@iu.edu](mailto:hzlin@iu.edu)   
 
-[<button class="button-13" role="button">CV</button>](files/cv/cv.pdf)</div>
+[<button class="button-13" role="button">CV</button>](haizhen-cv.pdf)</div>
 
 <br>
 
-### Selected Publications
+### **Selected Publications**
 
 - *Outside equity and healthcare firm behavior*, with Elizabeth Munnich, Michael Richards, Chris Whaley, and Xiaoxi Zhao, _Journal of Health Economics_, forthcoming.
 
@@ -54,7 +57,7 @@ Email: [hzlin@iu.edu](mailto:hzlin@iu.edu)
 
 ---
 
-### Working Papers
+### **Working Papers**
 
 - [Distributional effect of insurer concentration on premiums: Evidence from employer-sponsored health insurance](esi.pdf), with Yaying Zhou, revisions requested, _RAND Journal of Economics_.
 
