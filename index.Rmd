@@ -11,13 +11,13 @@ pagetitle: "Haizhen Lin"
 
 <br>
 
-<div><img src="haizhen-headshot.jpg" style="width: 230px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="haizhen-headshot-short.jpg" style="width: 230px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
-Chair and Professor of Business Economics and Public Policy
+Chair and Professor of Business Economics and Public Policy 
 
-Jack R. Wentworth Professor, Kelley School of Business, Indiana University  
+Jack R. Wentworth Professor, Kelley School of Business, Indiana University 
 
-Research Associate, National Bureau of Economic Research  
+Research Associate, National Bureau of Economic Research 
 
 **Areas of Research**: Health Economics, Industrial Organization, Applied Econometrics, Law and Economics
 
