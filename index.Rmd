@@ -11,7 +11,7 @@ pagetitle: "Haizhen Lin"
 
 <br>
 
-<div><img src="haizhen-headshot-short.jpg" style="width: 230px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="KSBHaizhenLin_1_.jpg" style="width: 190px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
 Chair and Professor of Business Economics and Public Policy 
 
