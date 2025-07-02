@@ -29,7 +29,9 @@ Email: [hzlin@iu.edu](mailto:hzlin@iu.edu)
 
 ### **Selected Publications**
 
-- *Outside equity and healthcare firm behavior*, with Elizabeth Munnich, Michael Richards, Chris Whaley, and Xiaoxi Zhao, _Journal of Health Economics_, forthcoming.
+- [The value of group purchasing: Evidence from the U.S. hospital industry](https://www.sciencedirect.com/science/article/abs/pii/S0047272725000787?via%3Dihub), with [Yanhao Wang](yanhaowang.com), _Journal of Public Economic_, 247, 2025.
+
+- *Outside equity and healthcare firm behavior*, with Elizabeth Munnich, Michael Richards, Chris Whaley, and Xiaoxi Zhao, _Journal of Health Economics_, 91, 2023.
 
 - [Multimarket contact in Medicare Advantage](https://www.nber.org/papers/w24486), with Ian McCarthy, _Journal of Industrial Economics_, 71(1), 212–255, 2023.
 
