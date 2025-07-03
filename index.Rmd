@@ -31,7 +31,7 @@ Email: [hzlin@iu.edu](mailto:hzlin@iu.edu)
 
 - [The value of group purchasing: Evidence from the U.S. hospital industry](https://www.sciencedirect.com/science/article/abs/pii/S0047272725000787?via%3Dihub), with [Yanhao Wang](yanhaowang.com), _Journal of Public Economic_, 247, 2025.
 
-- *Outside equity and healthcare firm behavior*, with Elizabeth Munnich, Michael Richards, Chris Whaley, and Xiaoxi Zhao, _Journal of Health Economics_, 91, 2023.
+- [Outside equity and healthcare firm behavior: Evidence from ambulatory surgery centers](https://www.sciencedirect.com/science/article/abs/pii/S0167629623000784), with Elizabeth Munnich, Michael Richards, Chris Whaley, and Xiaoxi Zhao, _Journal of Health Economics_, 91, 2023.
 
 - [Multimarket contact in Medicare Advantage](https://www.nber.org/papers/w24486), with Ian McCarthy, _Journal of Industrial Economics_, 71(1), 212–255, 2023.
 
@@ -61,8 +61,7 @@ Email: [hzlin@iu.edu](mailto:hzlin@iu.edu)
 
 ### **Working Papers**
 
-- [Distributional effect of insurer concentration on premiums: Evidence from employer-sponsored health insurance](esi.pdf), with Yaying Zhou, revisions requested, _RAND Journal of Economics_.
+- [Distributional effect of insurer concentration on premiums: Evidence from employer-sponsored health insurance](esi.pdf), with Yaying Zhou, conditionally accepted, _RAND Journal of Economics_.
 
-- [Owning the agent: Hospital influence on physician behaviors](https://www.nber.org/papers/w28859), with Ian McCarthy and Michael Richards.
-
+- [Owning the agent: Hospital influence on physician behaviors](https://www.nber.org/papers/w28859), with Ian McCarthy and Michael Richards, accepted, _Journal of Human Resources_. 
 <br>
