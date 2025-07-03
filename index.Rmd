@@ -11,7 +11,7 @@ pagetitle: "Haizhen Lin"
 
 <br>
 
-<div><img src="KSBHaizhenLin_1_.jpg" style="width: 190px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
+<div><img src="KSBHaizhenLin_2_.webp" style="width: 230px; border:0.3px solid; margin-left: 0px; margin-right: 50px" align="left"> 
 
 Chair and Professor of Business Economics and Public Policy 
 
@@ -29,7 +29,7 @@ Email: [hzlin@iu.edu](mailto:hzlin@iu.edu)
 
 ### **Selected Publications**
 
-- [The value of group purchasing: Evidence from the U.S. hospital industry](https://www.sciencedirect.com/science/article/abs/pii/S0047272725000787?via%3Dihub), with [Yanhao Wang](yanhaowang.com), _Journal of Public Economic_, 247, 2025.
+- [The value of group purchasing: Evidence from the U.S. hospital industry](https://www.sciencedirect.com/science/article/abs/pii/S0047272725000787?via%3Dihub), with [Yanhao Wang](https://www.yanhaowang.com), _Journal of Public Economic_, 247, 2025.
 
 - [Outside equity and healthcare firm behavior: Evidence from ambulatory surgery centers](https://www.sciencedirect.com/science/article/abs/pii/S0167629623000784), with Elizabeth Munnich, Michael Richards, Chris Whaley, and Xiaoxi Zhao, _Journal of Health Economics_, 91, 2023.
 
